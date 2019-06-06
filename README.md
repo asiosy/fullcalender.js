@@ -1,0 +1,2 @@
+# fullcalender.js
+new style
